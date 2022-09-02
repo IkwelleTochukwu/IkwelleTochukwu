@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, i'm Tochi 👋 
 
-<!--
-**IkwelleTochukwu/IkwelleTochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am a cloud devOps enthusiast and an aspiring technical writer in Lagos, Nigeria
+
+:black_medium_square: :desktop_computer: I'm currently working on projects that exposes me to the concepts and use of devops tools for cloud automation
+
+:black_medium_square: :mechanical_arm: I'm learning more about Linux, Cloud computing, and various devOps tools like IAC tools, docker and ansible
+
+:black_medium_square: :pleading_face: Ping me about AWS cloud, Linux, Open source contributions
+
+:black_medium_square: :yum: I'm an active learning, looking for every opportunity to grow and impact in this space
+
+<br />
