@@ -3,7 +3,7 @@
 <br />
 
 
-## I am a cloud devOps enthusiast in Lagos, Nigeria
+## I am a Cloud DevOps Engineer in Lagos, Nigeria
 
 :black_medium_square: :desktop_computer: I'm currently working on projects that exposes me to the concepts and use of devops tools for cloud automation
 
